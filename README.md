@@ -88,9 +88,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Technologies Used
 - React
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
-- CSS3
+- Tailwind CSS
+- Node.js/npm
 - OpenWeatherMap API
 
 ---
