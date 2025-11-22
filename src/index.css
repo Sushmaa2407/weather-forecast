@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pixel-bg {
+  background-image: url("bg1.jpg");
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-size: cover; /* Scales the image to cover the entire element */
+  height: auto; /* Ensures the element takes up the full viewport height */
+  width: 100vw; /* Ensures the element takes up the full viewport width */
+  margin: 0;
+}
+.image-render-pixel {
+  image-rendering: pixelated;
+}
