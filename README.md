@@ -1,3 +1,24 @@
+# Weather Forecast App
+---
+A simple weather forecast web application that allows users to check the current weather and 5-day forecast for any city. Built using **React**, **JavaScript**, **HTML**, **CSS**, and consumes the **OpenWeatherMap API**.
+
+---
+
+## Features
+- Search for weather by city name
+- Display current weather conditions (temperature, humidity, wind speed)
+- 5-day weather forecast
+- Responsive design for mobile and desktop
+- Error handling for invalid city names
+
+---
+
+## Screenshots
+<img width="1435" height="869" alt="image" src="https://github.com/user-attachments/assets/1c949094-755c-4c64-801b-fbb55bbfcfab" />
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,12 +60,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -68,3 +83,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+## Technologies Used
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- OpenWeatherMap API
+
+---
+
+## Future Enhancements
+- Add location-based weather detection
+- Include hourly forecast
+- Improve UI with animations
+
+---
+
+
