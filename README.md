@@ -4,6 +4,17 @@ A simple weather forecast web application that allows users to check the current
 
 ---
 
+
+## 🚀 Live Demo 
+
+```
+https://Sushmaa2407.github.io/weather-forecast/
+```
+
+
+---
+
+
 ## Features
 - Search for weather by city name
 - Display current weather conditions (temperature, humidity, wind speed)
